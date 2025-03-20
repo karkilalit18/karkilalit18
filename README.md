@@ -1,3 +1,4 @@
+![logo](https://img.freepik.com/premium-photo/network-connection-structure-digital-background-with-dots-lines-big-data-visualization-3d-rendering_698341-770.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm Lalit Singh Karki</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
