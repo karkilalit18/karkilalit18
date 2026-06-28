@@ -1,4 +1,4 @@
-![logo](https://www.upes.ac.in/blog/computer-science/ai-vs-data-science)
+![logo](https://upeswebsitecdn-prod-hphqfhc0b8h2ffhf.a02.azurefd.net/drupal-data/2024-09/Card%20Image-6_0.webp)
 <h1 align="center">Hi 👋, I'm Lalit Singh Karki</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
