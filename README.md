@@ -1,4 +1,4 @@
-![logo](https://upeswebsitecdn-prod-hphqfhc0b8h2ffhf.a02.azurefd.net/drupal-data/2024-09/Card%20Image-6_0.webp)
+![logo](https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg)
 <h1 align="center">Hi 👋, I'm Lalit Singh Karki</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
